@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-/igorpcarvalho-black?style=for-the-badge&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/igorpcarvalho/)](https://www.linkedin.com/in/igorpcarvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-c.igor.carvalho@gmail.com-black?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:c.igor.carvalho@gmail.com)](mailto:c.igor.carvalho@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@dev.igorcarvalho-black?style=for-the-badge&logo=Instagram&logoColor=&link=https://www.instagram.com/dev.igorcarvalho/)](https://www.instagram.com/dev.igorcarvalho/)
-![logo30x20fd](https://user-images.githubusercontent.com/62715353/87848900-b9820680-c8ba-11ea-94cb-5f36cc76d6a0.png)
+![logo30x20fd](https://user-images.githubusercontent.com/62715353/87848925-05cd4680-c8bb-11ea-96cb-293c132cb789.png)
 
 
 
