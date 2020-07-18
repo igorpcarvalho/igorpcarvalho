@@ -5,7 +5,10 @@
 
 :stuck_out_tongue:I'm a Full Stack Developer👨🏻‍💻, specializing in JavaScript, Node.js, React and React Native. Using the entire ecosystem behind this technology:heartbeat:.
 
->'Fortis Fortuna Adiuvat':four_leaf_clover:
+Co Founder and CEO of Refactor It Solutions, a company I have been building in partnership with a great friend Rafael Rodrigues @ faellbalboa and together we will innovate in the form of IT development and marketing for any type of business, from a small business to a large company.
+
+*'Fortis Fortuna Adiuvat':four_leaf_clover:
+
 <!--
 **igorpcarvalho/igorpcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
