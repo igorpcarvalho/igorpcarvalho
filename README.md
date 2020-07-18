@@ -4,6 +4,8 @@
 
 
 :stuck_out_tongue:I'm a Full Stack Developer👨🏻‍💻, specializing in JavaScript, Node.js, React and React Native. Using the entire ecosystem behind this technology:heartbeat:.
+
+>'Fortis Fortuna Adiuvat':four_leaf_clover:
 <!--
 **igorpcarvalho/igorpcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
