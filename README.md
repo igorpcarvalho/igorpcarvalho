@@ -7,7 +7,7 @@
 
 Co Founder and CEO of Refactor It Solutions, a company I have been building in partnership with a great friend Rafael Rodrigues @ faellbalboa and together we will innovate in the form of IT development and marketing for any type of business, from a small business to a large company.
 
-*'Fortis Fortuna Adiuvat':four_leaf_clover:
+*'Fortis Fortuna Adiuvat'*:four_leaf_clover:
 
 <!--
 **igorpcarvalho/igorpcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
