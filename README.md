@@ -1,7 +1,7 @@
 ![githubsmall](https://user-images.githubusercontent.com/62715353/87848831-f8fc2300-c8b9-11ea-8446-7c57ffc5b50e.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/-/igorpcarvalho-black?style=for-the-badge&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/igorpcarvalho/)](https://www.linkedin.com/in/igorpcarvalho/)
-[![Gmail Badge](https://img.shields.io/badge/-c.igor.carvalho@gmail.com-black?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:c.igor.carvalho@gmail.com)](mailto:c.igor.carvalho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-icaarvalho@outlook.com-black?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:icaarvalho@outlook.com)](mailto:icaarvalho@outlook.com)
 [![Instagram Badge](https://img.shields.io/badge/-@dev.igorcarvalho-black?style=for-the-badge&logo=Instagram&logoColor=&link=https://www.instagram.com/dev.igorcarvalho/)](https://www.instagram.com/dev.igorcarvalho/)
 <a href="https://www.instagram.com/refact.it/">![Refact](https://user-images.githubusercontent.com/62715353/87848925-05cd4680-c8bb-11ea-96cb-293c132cb789.png)</a>
 
