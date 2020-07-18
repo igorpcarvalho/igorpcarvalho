@@ -1,8 +1,4 @@
-### Christophe Igor Carvalho 
-
-:office:CEO @Refact-It
-
-![logo20x20fd](https://user-images.githubusercontent.com/62715353/87846971-86377b80-c8aa-11ea-845d-6182652ad171.png)
+![github1](https://user-images.githubusercontent.com/62715353/87847910-e41b9180-c8b1-11ea-9935-91615bf64705.png)
 
 
 :stuck_out_tongue:I'm a Full Stack Developer👨🏻‍💻, specializing in JavaScript, Node.js, React and React Native. Using the entire ecosystem behind this technology⚡.
